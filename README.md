@@ -16,16 +16,17 @@
 
 ### Setup
 
+npm i the following: dotenv eslint express jest method-override mongoose supertest
+
 #### `.env` requirements (where applicable)
 
-i.e.
 
-- `PORT` - Port Number
-- `MONGODB_URI` - URL to the running mongo instance/db
+- `PORT` - 3000
+- `MONGODB_URI` - 
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `npm start`
+- e.g. `nodemon`
 
 #### How to use your library (where applicable)
 
